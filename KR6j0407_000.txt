@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 曼殊室利菩薩藏中一字王經
+#+DATE: 2015-08-30 20:31:51.655064
+#+PROPERTY: JUAN 0
