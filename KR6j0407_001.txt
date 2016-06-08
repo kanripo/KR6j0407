@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:31:51.425708
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:04
 #+TITLE: 曼殊室利菩薩呪藏中一字呪王經
 #+PROPERTY: CBETA_ID T20n1182
 #+PROPERTY: ID KR6j0407
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1182
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0407_T_000-0781a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0407_T_001-0781a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1182[No.1181,cf.No.1191]¶
-
- 曼殊室利菩薩呪藏中一字呪¶
+No. 1182 [No. 1181, cf. No. 1191]¶
+曼殊室利菩薩呪藏中一字呪¶
 王經¶
 ¶
 唐三藏法師義淨奉　制譯¶
@@ -81,7 +80,7 @@ No.1182[No.1181,cf.No.1191]¶
 永差。若人患瘧。或一日二日三日四日發¶
 者。或常熱病或暫時熱病。應以乳粥和酥呪¶
 一百八遍。食之即差。若人被他厭魅蠱毒¶
-所中。應作反緣心。呪自己面一百八遍。觀彼¶
+所中。應作反緣心。呪自已面一百八遍。觀彼¶
 病人所患便差。若人被邪鬼羯吒布單那等¶
 諸鬼所著。或小兒諸病。但是一切非人所為
 <pb:KR6j0407_T_001-0782a>¶
